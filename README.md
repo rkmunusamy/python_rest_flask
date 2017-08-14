@@ -9,7 +9,9 @@ $mkdir server
 
 $cd server/
 
-create virtual environment
+# copy this repo into server folder
+
+# create virtual environment
  
 $virtualenv flask
 
