@@ -5,5 +5,7 @@ helps in getting started with the basic REST API Development of Flask. PRs are w
 this repo is to spread the information and no profit is made on it.
 
 To run this code execute this command in terminal
+
 $chmod a+x server.py
+
 $./server.py
