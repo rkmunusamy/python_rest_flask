@@ -4,6 +4,20 @@ This code is a self explanatory code, I got from [impythonist](https://impythoni
 helps in getting started with the basic REST API Development of Flask. PRs are welcome for the other REQUESTS. The sole existence of
 this repo is to spread the information and no profit is made on it.
 
+
+$mkdir server
+
+$cd server/
+
+create virtual environment
+ 
+$virtualenv flask
+
+
+$flask/bin/pip install  flask flask-jsonpify flask-sqlalchemy flask-restful
+
+
+
 To run this code execute this command in terminal
 
 $chmod a+x server.py
